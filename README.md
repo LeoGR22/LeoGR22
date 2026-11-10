@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-rendaki-7064a4252"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
-  <a href="https://leogr.itch.io"><img src="https://img.shields.io/badge/itch.io-0d1117?style=for-the-badge&logo=itchdotio&logoColor=A78BFA" alt="itch.io" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-rendaki-7064a4252"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://leogr.itch.io"><img src="https://img.shields.io/badge/itch.io-6d28d9?style=for-the-badge" alt="itch.io" /></a>
 </p>
 
 ---
@@ -26,13 +26,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,gcp,docker,terraform,gitlab,git,linux,godot&theme=dark" alt="stack" />
-</p>
-
-### GitHub stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeoGR22&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGR22&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" alt="top languages" />
 </p>
 
 <!-- Footer -->
