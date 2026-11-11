@@ -28,6 +28,15 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgres,gcp,docker,terraform,gitlab,git,linux,godot&theme=dark" alt="stack" />
 </p>
 
+<!-- Snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoGR22/LeoGR22/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoGR22/LeoGR22/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/LeoGR22/LeoGR22/output/github-snake.svg" />
+  </picture>
+</p>
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0d1117&height=100&section=footer" alt="footer" />
