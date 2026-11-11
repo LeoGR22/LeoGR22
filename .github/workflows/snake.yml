@@ -25,7 +25,10 @@ jobs:
 
       - name: Push to output branch
         run: |
-          cd dist
+          # dist/ is created as root by the Docker action, so publish from a copy
+          mkdir -p "$RUNNER_TEMP/snake"
+          cp dist/*.svg "$RUNNER_TEMP/snake/"
+          cd "$RUNNER_TEMP/snake"
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
